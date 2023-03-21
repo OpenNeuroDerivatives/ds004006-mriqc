@@ -1,0 +1,16 @@
+Warning: Permanently added 'c158-112' (ECDSA) to the list of known hosts.
+WARNING (03/20/23 15:46:37): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5328599.hostlist.eIN2JRHt to get hosts
+starting job on c158-112
+starting job on c158-141
+starting job on c158-144
+starting job on c161-211
+starting job on c161-213
+starting job on c163-044
+starting job on c163-052
+starting job on c163-103
+starting job on c169-092
+slurmstepd: error: *** JOB 5328599 ON c158-112 CANCELLED AT 2023-03-20T21:10:41 ***
+Killed by signal 15.
+Terminated
+Killed by signal 15.
